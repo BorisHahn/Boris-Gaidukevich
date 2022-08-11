@@ -6,6 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=borishahn&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-<h1>
-  Всем привет, меня зовут Борис :suspect:
+<h1 align="center">
+  Всем привет, меня зовут Борис :wave:
 </h1>

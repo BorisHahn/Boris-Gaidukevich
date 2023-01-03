@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=borishahn&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <h1 align="center">
   Всем привет, меня зовут Борис :wave:
 </h1>

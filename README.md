@@ -44,6 +44,7 @@
 
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=borishahn&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=borishahn)](https://github.com/borishahn/github-readme-stats)
 
 
 ---

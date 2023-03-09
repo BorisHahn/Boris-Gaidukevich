@@ -6,11 +6,25 @@
     <img src="https://komarev.com/ghpvc/?username=borishahn&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-<h1 align="center">
+<h2 align="center">
   Всем привет, меня зовут Борис :wave:
-</h1>
+</h2>
 
 ### :man_technologist: Обо мне :
+
+
+```js
+const borisGaidukevich = {
+  gender: 'male',
+  vocation: 'frontend-developer',
+  languages: ['JavaScript', 'TypeScript'],
+  frameworks: ['React', 'Redux'],
+  tools: ['NodeJs', 'Express', 'MongoDB', 'Webpack', 'Bootstrap'],
+  getCode(clean, clear, efficient) {
+    console.log(`Write ${clean}, ${clear} and ${efficient} code`);
+  }
+}
+```
 Я начинающий фронтенд разработчик
 
 - :suspect: Выпускник Яндекс Практикума на факультете "Веб-разработчик".
@@ -21,7 +35,6 @@
 
 - :dart: Цель: освоить новые фреймфорки.
 
-- :blue_book: В свободное время читаю литературу по разработке веб-приложений
  ---
 
 ### :hammer_and_wrench: Мой стек :

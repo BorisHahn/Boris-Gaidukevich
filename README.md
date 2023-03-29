@@ -59,7 +59,7 @@ const borisGaidukevich = {
 
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borishahn&theme=github_dark"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borishahn&layout=compact&show_icons=true&theme=dark")](https://github.com/borishahn/github-readme-stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borishahn&layout=compact&show_icons=true&&theme=github_dark")](https://github.com/borishahn/github-readme-stats"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borishahn&theme=github_dark"/>
 	
 </div>
